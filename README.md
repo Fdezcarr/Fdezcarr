@@ -14,7 +14,7 @@
 </a>
 
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: Desarrollador front-end<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 Actualmente sigo formandome en nuevos lenguajes<br>🎯 Goals: Desarrollador front-end<br>🎲 Fun fact: ...</p>
 
 ###
 
