@@ -8,6 +8,10 @@
 
 <h4 align="left">🚀 Durante mi paso por el grado de Educación primaria, descubrí mi verdadera pasión por el mundo de la tecnología y, desde entonces, he canalizado mi energía hacia la programación, específicamente en proyectos personales que me han permitido adquirir habilidades autodidactas en lógica básica de programación.<br><br>👨‍💻 Actualmente, estoy dando un paso más en mi carrera con un curso de Full Stack Developer en la Universidad Unir, donde he completado con éxito mi formación y estoy ansioso por aplicar mis conocimientos en proyectos reales. Mientras consolido mis habilidades como desarrollador Full Stack, sigo comprometido con mi crecimiento profesional para poder contribuir a proyectos innovadores.<br><br>🌐 Mi objetivo es adentrarme en el mundo de la programación y contribuir a proyectos significativos. Estoy abierto a oportunidades laborales en el ámbito remoto que me permitan aplicar mis habilidades y seguir aprendiendo en un entorno dinámico.</h4>
 
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: Desarrollador front-end<br>🎲 Fun fact: ...</p>
