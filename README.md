@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy un desarrollador frontend apasionado por aprender cada día más.</p>
+
 
 ###
 
